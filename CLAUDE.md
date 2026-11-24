@@ -20,8 +20,10 @@ Everything else is not important: ordinary promotions, shop newsletters, social 
 
 ## 3. Steps
 1. Read the emails I received (default: today).
-2. Sort each one with a label, for example: Act, Bill, Reply, Flats, Interesting, Low.
-3. Mark the not-important ones as read. Leave important ones unread.
+2. Sort each one with a label: Act, Bill, Reply, Flats, People, Newsletter, Interesting, Low.
+   - People: emails from a real person.
+   - Newsletter: all newsletters. Add Interesting too if it is one I would want.
+3. Mark ONLY the not-important emails as read. Leave important ones unread.
 4. For emails that want an answer, write a draft reply and save it as a Gmail draft. Do not send.
 5. Check my calendar. If something needs time, suggest a free slot. Do not create the event.
 6. Report to me:
